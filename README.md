@@ -1,2 +1,1 @@
-# synn-website
-Website for synn.nl... potentially... maybe... or maybe not...
+# icehax-website
