@@ -5,5 +5,8 @@
     "express": "latest",
     "express-handlebars": "latest",
     "mongodb": "latest"
-  }
+  },
+  "scripts": {
+    "test": "node app.js"
+}
 }
