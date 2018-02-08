@@ -1,0 +1,9 @@
+{
+  "name": "icehax-website",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "latest",
+    "express-handlebars": "latest",
+    "mongodb": "latest"
+  }
+}
