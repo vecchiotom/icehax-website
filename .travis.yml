@@ -1,3 +1,3 @@
 language: node_js
 notifications:
-  webhooks: http://your-domain.com/notifications
+  webhooks: https://skyhook.glitch.me/api/webhooks/406153797593726988/Z5MIIDxUv8_zCUFKpELu0w4LM2RacA5Rn7sYqLVoaofv7oacKC4YGNOFYhujlZSaSsU0/travis
